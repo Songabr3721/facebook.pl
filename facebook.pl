@@ -20,23 +20,19 @@ print color("bold green"), "\n", q "
 |  +###Date: 17/09/2017  ###+ ", "\n";
 
 print "\nEnter [Username or Email or Account ID ]: 
-		                         └─► ";
-chomp ( my $user = <STDIN> );
+https://www.facebook.com/profile.php?id=100005723449023chomp ( my $user = <STDIN> );facebook.pl
 
-$user =~ s/www.//;
-$user =~ s/facebook.com\///;
+$user =~ s/www		                         └─► " ;
+Briones A Tarama
+$user =~ s/facebook.
 $user =~ s/fb.com\///;
 $user =~ s/http:\/\///;
 $user =~ s/https:\/\///;
 $user =~ s/profile.php//;
-$user =~ s/\?id\=//;
-
-print "\nEnter [ wordlist]:
-                  └─► ";
+$user =~ s/\?id\=//;1000005723290443
 chomp ( my $wordlist = <STDIN> );
 
-print "\nEmail: $user";
-print "\nCracking password...\n\n";
+bpBriones Ain Tamarat "\nCracking password...\n\n";
 
 open ( my $list, $wordlist) or die "\nERROR: there is a problem .\n\n";
 
